@@ -15,7 +15,7 @@ MSG6 db 10,13, "Press an Option Between 1 and 2 Or Press any Key to Exit : ",10,
 MSG7 db 10,13, "Ammount to Deposite    :  $"   
 MSG8 db 10,13, "Ammount to Withdraw    :  $"   
 
-MSG9 db 10,13, "Thank You $"
+MSG9 db 10,13, "Thank You For Using Our Console APP $"
          
 newLine db 10,13, "$" 
 
